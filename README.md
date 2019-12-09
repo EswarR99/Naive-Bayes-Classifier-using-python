@@ -13,4 +13,5 @@ For more information visit: https://scikit-learn.org/stable/modules/generated/sk
 DATASET WEBSITE:
 
 Imported fetch_20newsgroups dataset from scikit-learn library.
-https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
+
+For more information visit: https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
